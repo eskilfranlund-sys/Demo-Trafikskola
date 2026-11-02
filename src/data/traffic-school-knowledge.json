@@ -1,0 +1,219 @@
+[
+  {
+    "id": "school-about",
+    "category": "about",
+    "question_variants": ["Berätta om trafikskolan", "Vilka är ni?", "Var ligger trafikskolan?", "Vad är Oscar Larssons Trafikskola?"],
+    "answer": "Oscar Larssons Trafikskola är en trafikskola i Ljungskile som startade 2011. Vi har tre trafiklärare och utbildar för B-körkort (manuell och automat), riskutbildning, introduktionsutbildning, teori, AM-kurs (moped) samt BE och B96. Eleverna övar både i lugna Ljungskile, på E6:an och i stadstrafik i Uddevalla, där uppkörningen görs.",
+    "source_url": "/om-oss",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "site-demo",
+    "category": "about",
+    "question_variants": ["Finns trafikskolan på riktigt?", "Är det här en riktig trafikskola?", "Vem har gjort hemsidan?", "Är det en demo?"],
+    "answer": "Oscar Larssons Trafikskola är en påhittad trafikskola. Hemsidan och chattassistenten är ett portfolioprojekt inom webbdesign, så namn, priser, personal och kontaktuppgifter är fiktiva. Inga bokningar eller meddelanden skickas på riktigt.",
+    "source_url": "/",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "school-staff",
+    "category": "about",
+    "question_variants": ["Vilka trafiklärare har ni?", "Vilka jobbar på trafikskolan?", "Vem är Oscar?", "Vem håller i teorin?"],
+    "answer": "Oscar Larsson är grundare och trafiklärare sedan 2009 (B, BE, B96 och riskutbildning). Elin Berg är trafiklärare och teoriansvarig sedan 2016 och håller i teorikvällarna och AM-kurserna. Amir Haddad är trafiklärare sedan 2019 (B, B96 och introduktionsutbildning) och kör mest med elbilen.",
+    "source_url": "/om-oss",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "cars",
+    "category": "about",
+    "question_variants": ["Vilka bilar har ni?", "Vilken bil kör man i?", "Har ni elbil?"],
+    "answer": "Skolan har två Volkswagen ID.3 (elbil, automat) och en Volkswagen Golf (bensin, manuell). Till BE- och B96-utbildningen finns en bil med släp att låna.",
+    "source_url": "/om-oss",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "contact-info",
+    "category": "contact",
+    "question_variants": ["Hur kontaktar jag er?", "Vad har ni för telefonnummer?", "Vad är er adress?", "Vilken e-post har ni?"],
+    "answer": "Oscar Larssons Trafikskola, Robert Macfies väg 23, 459 30 Ljungskile. Telefon 031-390 06 40. E-post info@oscarlarssonstrafikskola.se. Kontaktformulär finns på /kontakt och bokningsförfrågan på /boka.",
+    "source_url": "/kontakt",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "opening-hours",
+    "category": "contact",
+    "question_variants": ["Vilka öppettider har ni?", "När har ni öppet?", "När kan man köra lektioner?", "Kör ni på helger?"],
+    "answer": "Kontoret har öppet måndag–torsdag 08.00–17.00 och fredag 08.00–15.00. Lördag och söndag är kontoret stängt. Körlektioner går måndag–torsdag 07.00–19.00, fredag 07.00–16.00 och lördagar 09.00–14.00 jämna veckor.",
+    "source_url": "/kontakt",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "lesson-price",
+    "category": "prices",
+    "question_variants": ["Vad kostar en körlektion?", "Pris för lektion", "Vad kostar en dubbellektion?"],
+    "answer": "En körlektion på 40 minuter kostar 720 kr, både för manuell och automatväxlad bil. En dubbellektion på 80 minuter kostar 1 390 kr.",
+    "source_url": "/priser",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "lesson-length",
+    "category": "courses",
+    "question_variants": ["Hur lång är en lektion?", "Hur många minuter är en körlektion?", "Var börjar lektionen?"],
+    "answer": "En körlektion är 40 minuter och en dubbellektion 80 minuter. Lektionen börjar vid skolan på Robert Macfies väg 23, eller så hämtar vi upp dig vid Ljungskile station.",
+    "source_url": "/utbildningar",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "b-manual-automatic",
+    "category": "courses",
+    "question_variants": ["Erbjuder ni automatväxlad bil?", "Kan jag ta körkort på automat?", "Manuell eller automat?", "Vad är skillnaden mellan automat och manuell?"],
+    "answer": "Ja, du kan välja manuell bensinbil (Volkswagen Golf) eller automatväxlad elbil (Volkswagen ID.3). Med ett automatkörkort får du bara köra automatväxlad bil. Lektionspriset är detsamma för båda.",
+    "source_url": "/utbildningar",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "package-start",
+    "category": "prices",
+    "question_variants": ["Vad ingår i startpaketet?", "Vad kostar startpaketet?", "Paket för nybörjare"],
+    "answer": "Startpaketet kostar 6 900 kr och innehåller 5 körlektioner à 40 minuter, Riskettan och teoripaket online.",
+    "source_url": "/priser",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "package-korkort",
+    "category": "prices",
+    "question_variants": ["Vad ingår i körkortspaketet?", "Vad kostar körkortspaketet?", "Vilket paket rekommenderar ni?", "Vilka paket har ni?"],
+    "answer": "Körkortspaketet kostar 17 900 kr och är vårt populäraste paket. Det innehåller 15 körlektioner à 40 minuter, Riskettan och Risktvåan, teoripaket online och hyrbil vid uppkörningen. Det finns också Startpaket och Intensivpaket.",
+    "source_url": "/priser",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "package-intensiv",
+    "category": "prices",
+    "question_variants": ["Har ni intensivkurs?", "Vad kostar intensivpaketet?", "Kan jag ta körkort snabbt?"],
+    "answer": "Intensivpaketet kostar 21 500 kr och ger dig 20 körlektioner på 3 veckor, Riskettan och Risktvåan, teoripaket online och hyrbil vid uppkörningen. Det passar dig som redan har övningskört en del.",
+    "source_url": "/priser",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "risk-education",
+    "category": "courses",
+    "question_variants": ["Vad är riskettan?", "Vad kostar halkbanan?", "Vad är risktvåan?", "Var kör man halkbana?"],
+    "answer": "Riskettan (1 900 kr) handlar om alkohol, droger, trötthet och riskfyllda beteenden och tar cirka 3,5 timmar i våra lokaler. Risktvåan (2 600 kr) körs på halkbana i Uddevalla, och vi samåker från skolan. Båda måste vara klara innan uppkörningen.",
+    "source_url": "/utbildningar",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "introduction-course",
+    "category": "courses",
+    "question_variants": ["Hur bokar jag en handledarkurs?", "Vad kostar introduktionsutbildningen?", "Vad är en handledarkurs?", "Jag vill övningsköra privat"],
+    "answer": "Introduktionsutbildningen (handledarkursen) kostar 850 kr per person. Både handledaren och eleven måste gå den för att få övningsköra privat. Kursen är en kväll på cirka 3 timmar och gäller i 5 år. Skicka en förfrågan på /boka eller ring 031-390 06 40.",
+    "source_url": "/utbildningar",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "theory-course",
+    "category": "courses",
+    "question_variants": ["Hur fungerar teorikurserna?", "Har ni teorilektioner?", "När är teorikvällen?", "Vad kostar teoripaketet?"],
+    "answer": "Teoripaketet online kostar 590 kr och gäller i 6 månader, med över tusen övningsfrågor som fungerar i mobilen. Teorikväll med Elin Berg går tisdagar 18.00–19.30 och kostar 250 kr per tillfälle.",
+    "source_url": "/utbildningar",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "am-course",
+    "category": "courses",
+    "question_variants": ["Hur fungerar AM-utbildningen?", "Vad kostar mopedkörkort?", "AM-kurs", "Moped klass 1"],
+    "answer": "AM-kursen ger behörighet för moped klass I och kostar 4 900 kr. Du kan börja från 15 år. Kursen är 12 timmar teori och praktik, och moped och hjälm ingår. Kurserna går under skollov.",
+    "source_url": "/utbildningar",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "am-next-course",
+    "category": "courses",
+    "question_variants": ["När går nästa AM-kurs?", "Har ni mopedkurs på jullovet?", "Nästa mopedkurs"],
+    "answer": "Nästa AM-kurs går under jullovet, 28/12–30/12. Skicka en förfrågan på /boka för att få en plats.",
+    "source_url": "/utbildningar",
+    "last_checked": "2026-10-22",
+    "valid_until": "2026-12-28",
+    "needs_review": false
+  },
+  {
+    "id": "b96-vs-be",
+    "category": "courses",
+    "question_variants": ["Vad är skillnaden mellan B96 och BE?", "Vad kostar BE-kort?", "Jag vill dra husvagn", "Vad kostar B96?"],
+    "answer": "Med B96 (3 900 kr) får bil och släp tillsammans väga upp till 4 250 kg. Med BE (7 400 kr) får själva släpet väga upp till 3 500 kg. Skolan lånar ut bil med släp och bokar provet åt dig.",
+    "source_url": "/utbildningar",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "driving-test",
+    "category": "courses",
+    "question_variants": ["Var gör man uppkörningen?", "Kan jag låna bil till uppkörningen?", "Vad kostar hyrbil vid uppkörning?", "Ingår provavgiften?"],
+    "answer": "Uppkörningen görs i Uddevalla. Hyrbil vid uppkörningen kostar 1 500 kr och inkluderar en uppvärmningslektion. Avgifterna för kunskapsprov och körprov ingår inte. De betalar du till Trafikverket.",
+    "source_url": "/priser",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "booking",
+    "category": "booking",
+    "question_variants": ["Hur bokar jag en körlektion?", "Kan jag boka här?", "Hur anmäler jag mig?", "Jag vill boka"],
+    "answer": "Fyll i en bokningsförfrågan på /boka, så ringer vi upp inom en arbetsdag och föreslår en tid. Du kan också ringa 031-390 06 40 under kontorstid.",
+    "source_url": "/boka",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "cancellation",
+    "category": "booking",
+    "question_variants": ["Hur avbokar jag en körlektion?", "Kan jag avboka?", "Vad händer om jag är sjuk?", "Omboka lektion"],
+    "answer": "Avboka eller omboka senast 24 timmar innan lektionen genom att ringa 031-390 06 40 eller mejla info@oscarlarssonstrafikskola.se. Avbokar du senare debiteras lektionen, om du inte har ett läkarintyg.",
+    "source_url": "/kontakt",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "payment-methods",
+    "category": "booking",
+    "question_variants": ["Kan jag betala med Swish?", "Hur betalar jag?", "Kan man delbetala?", "Faktura"],
+    "answer": "Du kan betala med Swish, kort eller faktura. Körkortspaketet och Intensivpaketet kan delbetalas på upp till 12 månader.",
+    "source_url": "/kontakt",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "age-requirements",
+    "category": "courses",
+    "question_variants": ["Hur gammal måste jag vara?", "När får jag börja övningsköra?", "Körkortstillstånd", "Hur gammal för uppkörning?"],
+    "answer": "Du får övningsköra bil från 16 år om du har körkortstillstånd, och uppkörningen gör du tidigast när du fyllt 18. Körkortstillståndet söker du hos Transportstyrelsen.",
+    "source_url": "/kontakt",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  },
+  {
+    "id": "how-many-lessons",
+    "category": "courses",
+    "question_variants": ["Hur många lektioner behöver jag?", "Hur lång tid tar det att ta körkort?", "Antal lektioner"],
+    "answer": "Det beror på hur mycket du övningskör hemma. De flesta elever tar mellan 10 och 20 lektioner. Efter första lektionen får du en ärlig bedömning av trafikläraren.",
+    "source_url": "/kontakt",
+    "last_checked": "2026-10-22",
+    "needs_review": false
+  }
+]
